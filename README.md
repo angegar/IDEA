@@ -1,2 +1,2 @@
 # IDEA
-Real time RNA sequencing and anlysis
+Real time RNA sequencing and analysis
