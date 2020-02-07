@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/IDEA-room/community.svg)](https://gitter.im/IDEA-room/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # IDEA
 
 Real time RNA sequencing and analysis
