@@ -1,5 +1,7 @@
 # IDEA
 
+[![Join the chat at https://gitter.im/IDEA-room/community](https://badges.gitter.im/IDEA-room/community.svg)](https://gitter.im/IDEA-room/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Real time RNA sequencing and analysis
 
 ## High level steps
