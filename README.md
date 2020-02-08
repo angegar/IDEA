@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/IDEA-room/community.svg)](https://gitter.im/IDEA-room/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # IDEA
 
 Real time RNA sequencing and analysis
@@ -21,6 +23,7 @@ Real time RNA sequencing and analysis
     - [pendas](https://pandas.pydata.org/)
     
 **Note :** The biopython library offers simplicity to handle fastq files, however i don't know if we can build a tensorflow light model from this library. (Need to be investigated)
+
 
 ## RNA sequencing
 
