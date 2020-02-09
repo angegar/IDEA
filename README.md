@@ -2,8 +2,6 @@
 
 # IDEA
 
-[![Join the chat at https://gitter.im/IDEA-room/community](https://badges.gitter.im/IDEA-room/community.svg)](https://gitter.im/IDEA-room/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Real time RNA sequencing and analysis
 
 ## High level steps
@@ -30,3 +28,12 @@ Real time RNA sequencing and analysis
 ## RNA sequencing
 
 https://store.nanoporetech.com/media/it-requirements-configure-minion-basic.pdf
+
+## Architecture
+<div style="width:100px">
+<img src='architecture.png'  style="width:100px"/>
+</div>
+
+[Full screen](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=architecture.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fangegar%2FIDEA%2Fmaster%2Farchitecture.drawio)
+
+[Edit](https://www.draw.io/#Hangegar%2FIDEA%2Fmaster%2Farchitecture.drawio)
