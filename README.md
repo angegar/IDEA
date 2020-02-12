@@ -6,11 +6,11 @@ Real time RNA sequencing and analysis
 
 ## High level steps
 
-- [ ] **Categorization** : Categorize the fastq data, probably need to create sub folders containing set of data. We can start with 2 folders one for broken RNA and one for normal RNA
-- [ ] **Training** : Create a deep learning model based on those data
+- [ ] **Categorization** : Categorize the fastq data, probably need to create sub folders containing set of data. We can start with 2 folders one for irradiated RNA and one for non-irradiated RNA
+- [ ] **Training** : Create a deep learning model based on this data
 - [ ] **Build**: Build the model with tensorflow lite which will allows to move it to an IoT device (cf: Raspberry Pie)
 - [ ] **Integration** : Integrate the RNA sequensor device with our IoT device, the purpose here is to gather the FASTQ file and analyze it
-- [ ] **UI** : Create a nice UI to display the data. If we go with a binary answer (yes the RNA is broken, no it is not), we can think about use ligths (green , red) on our IoT device
+- [ ] **UI** : Create a nice UI to display the data. If we go with a binary answer (yes the RNA is irradiated, no it is not), we can think about use ligths (green , red) on our IoT device
 
 ## Contributing
 
